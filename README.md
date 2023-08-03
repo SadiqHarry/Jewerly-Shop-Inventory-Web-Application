@@ -1,5 +1,7 @@
 # Jewelry Shop Inventory Management System
 
+![main](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/4bc40c1c-d5ab-4901-9851-4387b094d73d)
+
 ## Description
 
 The Jewelry Shop Inventory Management System is a web application built with Spring Boot that allows users to manage the inventory of chains and rings in a jewelry shop. The system supports the addition, updating, and deletion of both in-house and outsourced chains, as well as the creation and management of rings assembled from specified chains.
@@ -17,9 +19,6 @@ The Jewelry Shop Inventory Management System is a web application built with Spr
 ## Screenshots
 
 Include some screenshots of the application's main screens, such as the main inventory screen, the detail screens for adding/updating chains and rings, and any other relevant views.
-
-Main Screen:
-![main](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/4bc40c1c-d5ab-4901-9851-4387b094d73d)
 
 Add Inhouse Chains:
 ![Screenshot 2023-08-03 141949](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/f2e77a26-a147-4f1a-a993-1b26362f8018)
