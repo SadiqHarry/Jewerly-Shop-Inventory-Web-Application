@@ -30,7 +30,7 @@ Includes some screenshots of the application's main screens, such as the main in
 To set up the Jewelry Shop Inventory Management System locally, follow these steps:
 
 1. Clone the repository from GitHub: `git clone https://github.com/SadiqHarry/SpringBoot_Jewelry-Shop.git`
-2. Navigate to the project directory: `cd jewelry-shop`
+2. Navigate to the project directory: 
 3. Build the project using Maven: `mvn clean install`
 4. Run the application: `Run with intellij`
 5. Access the application in your web browser at http://localhost:8080/mainscreen
