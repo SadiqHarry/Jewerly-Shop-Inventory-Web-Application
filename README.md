@@ -18,12 +18,9 @@ The Jewelry Shop Inventory Management System is a web application built with Spr
 
 ## Screenshots
 
-Include some screenshots of the application's main screens, such as the main inventory screen, the detail screens for adding/updating chains and rings, and any other relevant views.
+Includes some screenshots of the application's main screens, such as the main inventory screen, the detail screens for adding/updating chains and rings, and any other relevant views.
 
-Add Inhouse Chains:
 ![Screenshot 2023-08-03 141949](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/f2e77a26-a147-4f1a-a993-1b26362f8018)
-
-Add Out-Sourced Chains:
 ![Screenshot 2023-08-03 142017](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/2357d190-bf1f-45c9-bd3c-aaa2b4c64353)
 
 
