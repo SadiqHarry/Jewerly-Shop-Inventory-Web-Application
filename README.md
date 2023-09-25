@@ -1,6 +1,7 @@
 # Jewelry Shop Inventory Management System
 
-![main](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/4bc40c1c-d5ab-4901-9851-4387b094d73d)
+![1](https://github.com/SadiqHarry/Jewerly-Shop-Inventory-Web-Application/assets/116308353/43fef280-caf3-40ac-8f65-0f87b0c90f77)
+
 
 ## Technologies Leveraged
 - Springboot/Java
@@ -26,8 +27,9 @@ The Jewelry Shop Inventory Management System is a web application built with Spr
 
 Includes some screenshots of the application's main screens, such as the main inventory screen, the detail screens for adding/updating chains and rings, and any other relevant views.
 
-![Screenshot 2023-08-03 141949](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/f2e77a26-a147-4f1a-a993-1b26362f8018)
-![Screenshot 2023-08-03 142017](https://github.com/SadiqHarry/SpringBoot_Jewerly_Shop/assets/116308353/2357d190-bf1f-45c9-bd3c-aaa2b4c64353)
+![2](https://github.com/SadiqHarry/Jewerly-Shop-Inventory-Web-Application/assets/116308353/d3071b6c-6b80-41a5-9b4a-6c7e1ade6e10)
+![3](https://github.com/SadiqHarry/Jewerly-Shop-Inventory-Web-Application/assets/116308353/1c8c4d80-4b73-478e-a698-375dc20bdce3)
+
 
 
 
